@@ -14,7 +14,8 @@ function App() {
             <Button className='bg-orange-800 ' onClick={()=>setClr("orange")}>Orange</Button>
             <Button className='bg-blue-700' onClick={()=>setClr("blue")}>Blue</Button>
             <Button className='bg-green-700'onClick={()=>setClr("green")}>Green</Button>
-            
+            <Button className='bg-purple-800'onClick={()=>setClr("purple")}>purple</Button>
+            <Button className='bg-black'onClick={()=>setClr('black')}>Black</Button>
        </div>
       </div>
      </div>
